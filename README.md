@@ -11,6 +11,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandini-n9993/DSA---commits/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
 | [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -33,4 +35,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
