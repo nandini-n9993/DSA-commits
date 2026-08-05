@@ -3,12 +3,11 @@ class Solution:
         num.sort()
         c,l,r=0,0,len(num)-1
         while l<r:
-            s=num[l]+num[r]
-            if s==k:
+            if num[l]+num[r]==k:
                 c+=1
                 l+=1
                 r-=1
-            elif s<k:
+            elif num[l]+num[r]<k:
                 l+=1
             else:
                 r-=1    
