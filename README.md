@@ -13,6 +13,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nandini-n9993/DSA---commits/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
 | [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,12 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
