@@ -21,4 +21,16 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/nandini-n9993/DSA---commits/tree/main/0050-powx-n/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
