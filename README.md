@@ -27,6 +27,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nandini-n9993/DSA---commits/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/nandini-n9993/DSA---commits/tree/main/0014-longest-common-prefix/) | Easy |
 | [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Backtracking
@@ -49,4 +50,12 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nandini-n9993/DSA---commits/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nandini-n9993/DSA---commits/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
