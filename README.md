@@ -30,6 +30,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/nandini-n9993/DSA---commits/tree/main/0014-longest-common-prefix/) | Easy |
 | [0078-subsets](https://github.com/nandini-n9993/DSA---commits/tree/main/0078-subsets/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nandini-n9993/DSA---commits/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/nandini-n9993/DSA---commits/tree/main/0724-find-pivot-index/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandini-n9993/DSA---commits/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nandini-n9993/DSA---commits/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Backtracking
@@ -69,5 +70,6 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/nandini-n9993/DSA---commits/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/nandini-n9993/DSA---commits/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
